@@ -1,0 +1,6 @@
+site_name: Antistatique Processes
+pages:
+    - General: index.md
+    - Alwaysdata: alwaysdata.md
+    - Code standards: codestandards.md
+theme: bootstrap
